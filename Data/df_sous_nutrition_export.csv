@@ -1,0 +1,202 @@
+pays,code_pays,annee,nb_personnes
+Arménie,1,2013,100000
+Afghanistan,2,2013,7900000
+Albanie,3,2013,200000
+Algérie,4,2013,1700000
+Samoa américaines,5,2013,0
+Andorre,6,2013,0
+Angola,7,2013,8100000
+Antigua-et-Barbuda,8,2013,0
+Argentine,9,2013,1500000
+Australie,10,2013,0
+Autriche,11,2013,0
+Bahamas,12,2013,0
+Bahreïn,13,2013,0
+0,0,2013,0
+Bangladesh,16,2013,26100000
+Bermudes,17,2013,0
+Bhoutan,18,2013,0
+Bolivie (État plurinational de),19,2013,2200000
+Botswana,20,2013,500000
+Brésil,21,2013,0
+0,0,2013,0
+0,0,2013,0
+0,0,2013,0
+Bulgarie,27,2013,400000
+Myanmar,28,2013,6600000
+Burundi,29,2013,0
+Cameroun,32,2013,1700000
+Canada,33,2013,0
+0,0,2013,0
+République centrafricaine,37,2013,2000000
+Sri Lanka,38,2013,2300000
+Tchad,39,2013,4900000
+Chili,40,2013,600000
+Colombie,44,2013,4100000
+Comores,45,2013,0
+Congo,46,2013,1800000
+Îles Cook,47,2013,0
+Costa Rica,48,2013,300000
+Cuba,49,2013,0
+0,0,2013,0
+Azerbaïdjan,52,2013,0
+Bénin,53,2013,1000000
+Danemark,54,2013,0
+0,0,2013,0
+République dominicaine,56,2013,1300000
+Bélarus,57,2013,0
+Équateur,58,2013,1300000
+Égypte,59,2013,3900000
+El Salvador,60,2013,700000
+Guinée équatoriale,61,2013,0
+0,0,2013,0
+0,0,2013,0
+Finlande,67,2013,0
+France,68,2013,0
+0,0,2013,0
+Djibouti,72,2013,200000
+Géorgie,73,2013,300000
+Gabon,74,2013,200000
+Gambie,75,2013,200000
+Allemagne,79,2013,0
+Bosnie-Herzégovine,80,2013,0
+Ghana,81,2013,1600000
+0,0,2013,0
+Grèce,84,2013,0
+Groenland,85,2013,0
+Grenade,86,2013,0
+Guatemala,89,2013,2500000
+Guinée,90,2013,1800000
+0,0,2013,0
+Haïti,93,2013,5200000
+Honduras,95,2013,1300000
+Hongrie,97,2013,0
+Croatie,98,2013,0
+Islande,99,2013,0
+Inde,100,2013,216300000
+Indonésie,101,2013,22600000
+Iran (République islamique d'),102,2013,4200000
+Iraq,103,2013,9100000
+Irlande,104,2013,0
+Israël,105,2013,0
+Italie,106,2013,0
+Côte d'Ivoire,107,2013,4700000
+Kazakhstan,108,2013,0
+Jamaïque,109,2013,300000
+Japon,110,2013,0
+Jordanie,112,2013,900000
+Kirghizistan,113,2013,400000
+Kenya,114,2013,10000000
+Cambodge,115,2013,2800000
+République populaire démocratique de Corée,116,2013,10600000
+République de Corée,117,2013,0
+Koweït,118,2013,0
+Lettonie,119,2013,0
+République démocratique populaire lao,120,2013,1200000
+Liban,121,2013,500000
+Lesotho,122,2013,300000
+Libéria,123,2013,1600000
+Libye,124,2013,0
+Lituanie,126,2013,0
+Îles Marshall,127,2013,0
+0,0,2013,0
+Madagascar,129,2013,8200000
+Malawi,130,2013,3200000
+Malaisie,131,2013,1000000
+0,0,2013,0
+Mali,133,2013,1000000
+Malte,134,2013,0
+Mauritanie,136,2013,300000
+0,0,2013,0
+Mexique,138,2013,5300000
+Mongolie,141,2013,500000
+Maroc,143,2013,1400000
+Mozambique,144,2013,7000000
+Micronésie (États fédérés de),145,2013,0
+République de Moldova,146,2013,0
+Namibie,147,2013,700000
+Nauru,148,2013,0
+Népal,149,2013,2500000
+Pays-Bas,150,2013,0
+0,0,2013,0
+0,0,2013,0
+0,0,2013,0
+Nouvelle-Zélande,156,2013,0
+Nicaragua,157,2013,1100000
+Niger,158,2013,1900000
+Nigéria,159,2013,13400000
+Nioué,160,2013,0
+Norvège,162,2013,0
+Pakistan,165,2013,38100000
+Panama,166,2013,400000
+Tchéquie (la),167,2013,0
+Papouasie-Nouvelle-Guinée,168,2013,0
+Paraguay,169,2013,800000
+Pérou,170,2013,2800000
+Philippines,171,2013,14000000
+Pologne,173,2013,0
+Portugal,174,2013,0
+Guinée-Bissau,175,2013,400000
+Timor-Leste,176,2013,300000
+Porto Rico,177,2013,0
+Érythrée,178,2013,0
+Qatar,179,2013,0
+Palaos,180,2013,0
+Zimbabwe,181,2013,6600000
+Roumanie,183,2013,0
+Rwanda,184,2013,3600000
+Fédération de Russie,185,2013,0
+Saint-Kitts-et-Nevis,188,2013,0
+Sainte-Lucie,189,2013,0
+0,0,2013,0
+0,0,2013,0
+Arabie saoudite,194,2013,1600000
+Sénégal,195,2013,1900000
+Seychelles,196,2013,0
+Sierra Leone,197,2013,1600000
+Slovénie,198,2013,0
+Slovaquie,199,2013,200000
+Singapour,200,2013,0
+Somalie,201,2013,0
+Afrique du Sud,202,2013,2600000
+Espagne,203,2013,0
+0,0,2013,0
+Tadjikistan,208,2013,0
+Eswatini,209,2013,300000
+Suède,210,2013,0
+Suisse,211,2013,0
+République arabe syrienne,212,2013,0
+Turkménistan,213,2013,300000
+République-Unie de Tanzanie,215,2013,16400000
+Thaïlande,216,2013,5600000
+Togo,217,2013,1300000
+Tokélaou,218,2013,0
+Tonga,219,2013,0
+0,0,2013,0
+Oman,221,2013,200000
+Tunisie,222,2013,500000
+Turquie,223,2013,0
+Émirats arabes unis,225,2013,400000
+Ouganda,226,2013,12600000
+Tuvalu,227,2013,0
+Royaume-Uni,229,2013,0
+Ukraine,230,2013,0
+États-Unis d'Amérique,231,2013,0
+Burkina Faso,233,2013,3400000
+Uruguay,234,2013,0
+Ouzbékistan,235,2013,2100000
+Venezuela (République bolivarienne du),236,2013,1900000
+Viet Nam,237,2013,10400000
+Éthiopie,238,2013,25300000
+0,0,2013,0
+Yémen,249,2013,7200000
+République démocratique du Congo,250,2013,0
+Zambie,251,2013,7000000
+Belgique,255,2013,0
+Luxembourg,256,2013,0
+Serbie,272,2013,500000
+Monténégro,273,2013,0
+Soudan,276,2013,8300000
+Soudan du Sud,277,2013,0
+Palestine,299,2013,0
+Chine,351,2013,137700000

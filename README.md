@@ -27,6 +27,3 @@ In this project we will use :
 [fr_vegetaux.csv]
 
 
-** Project realized in python using jupyter, and the following libraries :**
-
-numpy   pandas
